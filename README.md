@@ -1030,7 +1030,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - Yellow: Warnings are Ok
 - Red: Errors are not Ok
 
-## Memory, Storage, Calldata (Intro)
+## Memory, Storage, Calldata (Introduction)
 *[⌨️ (3:08:13) | Basic Solidity Memory, Storage, & Calldata (Intro)](https://youtu.be/umepbfKp5rI?t=11293)*
 - 6 Places you can store and access data
   - calldata
